@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jack-bartlett
 - 👀 I’m interested in coding, engineering and producing music, fitness and nutrition
 - 🌱 I’m currently learning html, css, and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on bootcamp projects
 - 📫 How to reach me jackbartlettengineering@gmail.com
 
 <!---
